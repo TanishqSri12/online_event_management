@@ -1,0 +1,12 @@
+# online_event_management
+![table event_type](https://github.com/TanishqSri12/online_event_management/assets/127581911/f987b8ad-a7fc-41d9-8e8d-c1bf59f89537)
+![table events](https://github.com/TanishqSri12/online_event_management/assets/127581911/5c9a55de-14d6-44d6-bd71-2b5455acb578)
+![table participants](https://github.com/TanishqSri12/online_event_management/assets/127581911/3feeb5c7-1b3a-401f-befa-c4d3c142bc8e)
+![db design](https://github.com/TanishqSri12/online_event_management/assets/127581911/cc65921e-0e00-48a9-9170-eef4ff52af9c)
+![db tables](https://github.com/TanishqSri12/online_event_management/assets/127581911/25ab70dd-2040-4ccc-9fd9-6ecc5acdb9a1)
+![Documentation module 1](https://github.com/TanishqSri12/online_event_management/assets/127581911/333c9bbd-4b7a-4d8d-82ff-e812dccfbac5)
+![Documentation module](https://github.com/TanishqSri12/online_event_management/assets/127581911/2dd5210c-fbf8-4bdb-94fb-b5f6be188954)
+![Events module 1](https://github.com/TanishqSri12/online_event_management/assets/127581911/4be44eba-9b9f-4f2c-8d6d-30ef0d8a6a4f)
+![Events module](https://github.com/TanishqSri12/online_event_management/assets/127581911/1e9dabc5-9822-448b-bc8f-925d56314adb)
+![landing module](https://github.com/TanishqSri12/online_event_management/assets/127581911/4c3d208c-398c-41c5-afda-37b0cca3de40)
+![registration module](https://github.com/TanishqSri12/online_event_management/assets/127581911/75c3c91c-d0d2-4d44-8763-010c09420e68)
